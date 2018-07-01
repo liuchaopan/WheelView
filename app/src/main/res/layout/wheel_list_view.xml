@@ -4,8 +4,8 @@
               android:layout_width="fill_parent"
               android:layout_height="fill_parent">
 
-    <com.wangjie.wheelview.WheelView
-        android:id="@+id/wheel_view_wv"
+    <com.Widget.WheelListView
+        android:id="@+id/wheel_list_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
     />

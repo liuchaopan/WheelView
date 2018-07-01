@@ -5,7 +5,7 @@
               android:layout_height="fill_parent"
 >
 
-    <com.wangjie.wheelview.WheelView
+    <com.Widget.WheelListView
         android:id="@+id/main_wv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -16,7 +16,7 @@
         android:id="@+id/main_show_dialog_btn"
         android:layout_width="match_parent" android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:text="show WheelView in Dialog!"
+        android:text="show WheelListView in Dialog!"
     />
 
 </LinearLayout>
